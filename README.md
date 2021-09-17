@@ -1,2 +1,2 @@
 # KodluyoruzHakkimda
-HMTL etiketlerinin kullanılması
+HTML etiketlerinin kullanılması
